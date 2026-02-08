@@ -104,4 +104,4 @@ LOGGOC = β₀ + β₁(GSYIH) + ε
 İstatistik ve Bilgisayar Bilimleri Bölümü  
 Bilecik Şeyh Edebali Üniversitesi
 
-**Danışman:** Prof. Dr. Serpil Türkyılmaz
+
