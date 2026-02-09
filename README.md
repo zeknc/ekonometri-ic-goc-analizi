@@ -101,6 +101,8 @@ LOGGOC = β₀ + β₁(GSYIH) + ε
 ## 
 
 **Zehra Ekinci**  
+Email: zhrekncr7@gmail.com
+GitHub: @zeknc
 İstatistik ve Bilgisayar Bilimleri Bölümü  
 
 
